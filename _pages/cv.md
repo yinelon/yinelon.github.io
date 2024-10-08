@@ -14,8 +14,8 @@ redirect_from:
 
 ## Education
 
-Master of Finance, Tsinghua University, 2025 (expected)
-B.S. in Biomedical Engineering, Shanghai Jiao Tong University, 2021
+- Master of Finance, Tsinghua University, 2025 (expected)
+- B.S. in Biomedical Engineering, Shanghai Jiao Tong University, 2021
 
 
 ## Internship Experience
