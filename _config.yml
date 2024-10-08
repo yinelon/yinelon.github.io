@@ -21,7 +21,7 @@ repository               : "yinelon/yinelon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/tx.png"
+  avatar           : "images/tx.png" 
   name             : "Shuo Yin"
   pronouns         : # example: "she/her"  
   bio              : "An engineering student transitioning into finance"
